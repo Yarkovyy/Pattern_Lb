@@ -1,0 +1,14 @@
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb2\lb2_1\bin\Debug\net8.0\lb2_1.exe
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb2\lb2_1\bin\Debug\net8.0\lb2_1.deps.json
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb2\lb2_1\bin\Debug\net8.0\lb2_1.runtimeconfig.json
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb2\lb2_1\bin\Debug\net8.0\lb2_1.dll
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb2\lb2_1\bin\Debug\net8.0\lb2_1.pdb
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb2\lb2_1\obj\Debug\net8.0\lb2_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb2\lb2_1\obj\Debug\net8.0\lb2_1.AssemblyInfoInputs.cache
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb2\lb2_1\obj\Debug\net8.0\lb2_1.AssemblyInfo.cs
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb2\lb2_1\obj\Debug\net8.0\lb2_1.csproj.CoreCompileInputs.cache
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb2\lb2_1\obj\Debug\net8.0\lb2_1.dll
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb2\lb2_1\obj\Debug\net8.0\refint\lb2_1.dll
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb2\lb2_1\obj\Debug\net8.0\lb2_1.pdb
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb2\lb2_1\obj\Debug\net8.0\lb2_1.genruntimeconfig.cache
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb2\lb2_1\obj\Debug\net8.0\ref\lb2_1.dll

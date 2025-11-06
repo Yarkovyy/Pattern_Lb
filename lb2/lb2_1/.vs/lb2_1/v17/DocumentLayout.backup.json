@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\resultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:service\\resultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:service\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\quizcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:service\\quizcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:service\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\questionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:service\\questionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\interface\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:interface\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\quizchangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:service\\quizchangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:service\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\quizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:service\\quizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:service\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\userchangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:service\\userchangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\quizmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:service\\quizmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\model\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:model\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\model\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:model\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\interface\\iquizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:interface\\iquizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\interface\\iquizchangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:interface\\iquizchangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\interface\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE69E5-B8B9-4D51-8C77-7A27CDB545C6}|lb2_1.csproj|solutionrelative:interface\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Director.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\Director.cs",
+              "RelativeDocumentMoniker": "service\\Director.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\Director.cs",
+              "RelativeToolTip": "service\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T17:59:28.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBuilder.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\interface\\IBuilder.cs",
+              "RelativeDocumentMoniker": "interface\\IBuilder.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\interface\\IBuilder.cs",
+              "RelativeToolTip": "interface\\IBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T17:18:48.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResultRepository.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\ResultRepository.cs",
+              "RelativeDocumentMoniker": "service\\ResultRepository.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\ResultRepository.cs",
+              "RelativeToolTip": "service\\ResultRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:09:31.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuizRepository.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\QuizRepository.cs",
+              "RelativeDocumentMoniker": "service\\QuizRepository.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\QuizRepository.cs",
+              "RelativeToolTip": "service\\QuizRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:09:41.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuestionBuilder.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\QuestionBuilder.cs",
+              "RelativeDocumentMoniker": "service\\QuestionBuilder.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\QuestionBuilder.cs",
+              "RelativeToolTip": "service\\QuestionBuilder.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T17:16:16.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuizCreator.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\QuizCreator.cs",
+              "RelativeDocumentMoniker": "service\\QuizCreator.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\QuizCreator.cs",
+              "RelativeToolTip": "service\\QuizCreator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T17:52:59.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuizChangeService.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\QuizChangeService.cs",
+              "RelativeDocumentMoniker": "service\\QuizChangeService.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\QuizChangeService.cs",
+              "RelativeToolTip": "service\\QuizChangeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T10:12:23.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\UserRepository.cs",
+              "RelativeDocumentMoniker": "service\\UserRepository.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\UserRepository.cs",
+              "RelativeToolTip": "service\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:02:41.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "service\\AuthenticationService.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\AuthenticationService.cs",
+              "RelativeToolTip": "service\\AuthenticationService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:08:31.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\QuizManager.cs",
+              "RelativeDocumentMoniker": "service\\QuizManager.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\QuizManager.cs",
+              "RelativeToolTip": "service\\QuizManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:44:20.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:23:21.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminMenu.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "service\\AdminMenu.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\AdminMenu.cs",
+              "RelativeToolTip": "service\\AdminMenu.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAF0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:06:32.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserChangeService.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\UserChangeService.cs",
+              "RelativeDocumentMoniker": "service\\UserChangeService.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\UserChangeService.cs",
+              "RelativeToolTip": "service\\UserChangeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:09:25.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuizMenu.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\QuizMenu.cs",
+              "RelativeDocumentMoniker": "service\\QuizMenu.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\service\\QuizMenu.cs",
+              "RelativeToolTip": "service\\QuizMenu.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAowKAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:41:34.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Result.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\model\\Result.cs",
+              "RelativeDocumentMoniker": "model\\Result.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\model\\Result.cs",
+              "RelativeToolTip": "model\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:42:42.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Question.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\model\\Question.cs",
+              "RelativeDocumentMoniker": "model\\Question.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\model\\Question.cs",
+              "RelativeToolTip": "model\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:32:25.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IQuizChangeService.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\interface\\IQuizChangeService.cs",
+              "RelativeDocumentMoniker": "interface\\IQuizChangeService.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\interface\\IQuizChangeService.cs",
+              "RelativeToolTip": "interface\\IQuizChangeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T10:13:39.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\interface\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "interface\\IAuthenticationService.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\interface\\IAuthenticationService.cs",
+              "RelativeToolTip": "interface\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:42:05.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\model\\Quiz.cs",
+              "RelativeDocumentMoniker": "model\\Quiz.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\model\\Quiz.cs",
+              "RelativeToolTip": "model\\Quiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:32:24.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IQuizRepository.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\interface\\IQuizRepository.cs",
+              "RelativeDocumentMoniker": "interface\\IQuizRepository.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\lb2\\lb2_1\\interface\\IQuizRepository.cs",
+              "RelativeToolTip": "interface\\IQuizRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:54:27.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

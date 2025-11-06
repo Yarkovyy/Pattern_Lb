@@ -1,0 +1,17 @@
+[
+  {
+    "Login": "lg1",
+    "Password": "1",
+    "BirthDate": "2006-01-01T00:00:00"
+  },
+  {
+    "Login": "1",
+    "Password": "1",
+    "BirthDate": "0001-01-01T00:00:00"
+  },
+  {
+    "Login": "User",
+    "Password": "123",
+    "BirthDate": "2000-11-10T00:00:00"
+  }
+]

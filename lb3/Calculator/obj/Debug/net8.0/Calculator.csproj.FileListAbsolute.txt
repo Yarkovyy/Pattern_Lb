@@ -1,0 +1,14 @@
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb3\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb3\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb3\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb3\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb3\Calculator\bin\Debug\net8.0\Calculator.exe
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb3\Calculator\bin\Debug\net8.0\Calculator.deps.json
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb3\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb3\Calculator\bin\Debug\net8.0\Calculator.dll
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb3\Calculator\bin\Debug\net8.0\Calculator.pdb
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb3\Calculator\obj\Debug\net8.0\Calculator.dll
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb3\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb3\Calculator\obj\Debug\net8.0\Calculator.pdb
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb3\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+E:\Programs\krnu\Патерни проектування та їх прикладне використання\lb\lb3\Calculator\obj\Debug\net8.0\ref\Calculator.dll

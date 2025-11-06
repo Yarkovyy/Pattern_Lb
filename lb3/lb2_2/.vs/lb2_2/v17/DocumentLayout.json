@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\builder\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:factory\\builder\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\builder\\listunitdecbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:factory\\builder\\listunitdecbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\builder\\listunitsbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:factory\\builder\\listunitsbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\movement\\fastmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:factory\\movement\\fastmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\movement\\mediummovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:factory\\movement\\mediummovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\movement\\slowmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:factory\\movement\\slowmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\weapon\\dagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:factory\\weapon\\dagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\weapon\\musket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:factory\\weapon\\musket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\weapon\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:factory\\weapon\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\dwarffactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:factory\\dwarffactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\elffactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:factory\\elffactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\humanfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:factory\\humanfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\interface\\iunitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:interface\\iunitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\interface\\iunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:interface\\iunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\interface\\imovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:interface\\imovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\interface\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:interface\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\model\\decorator\\unitdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:model\\decorator\\unitdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\model\\clan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:model\\clan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\model\\leader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:model\\leader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\model\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:model\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\model\\squad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:model\\squad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\model\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:model\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|e:\\programs\\krnu\\\u043F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\interface\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E538-C626-4899-A59E-198255EBD5F6}|lb2_2.csproj|solutionrelative:interface\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DwarfFactory.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\DwarfFactory.cs",
+              "RelativeDocumentMoniker": "factory\\DwarfFactory.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\DwarfFactory.cs",
+              "RelativeToolTip": "factory\\DwarfFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:03:06.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\Weapon\\Sword.cs",
+              "RelativeDocumentMoniker": "factory\\Weapon\\Sword.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\Weapon\\Sword.cs",
+              "RelativeToolTip": "factory\\Weapon\\Sword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:52:28.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Musket.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\Weapon\\Musket.cs",
+              "RelativeDocumentMoniker": "factory\\Weapon\\Musket.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\Weapon\\Musket.cs",
+              "RelativeToolTip": "factory\\Weapon\\Musket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:55:39.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dagger.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\Weapon\\Dagger.cs",
+              "RelativeDocumentMoniker": "factory\\Weapon\\Dagger.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\Weapon\\Dagger.cs",
+              "RelativeToolTip": "factory\\Weapon\\Dagger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:54:38.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SlowMovement.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\Movement\\SlowMovement.cs",
+              "RelativeDocumentMoniker": "factory\\Movement\\SlowMovement.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\Movement\\SlowMovement.cs",
+              "RelativeToolTip": "factory\\Movement\\SlowMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:59:37.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MediumMovement.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\Movement\\MediumMovement.cs",
+              "RelativeDocumentMoniker": "factory\\Movement\\MediumMovement.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\Movement\\MediumMovement.cs",
+              "RelativeToolTip": "factory\\Movement\\MediumMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:59:19.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FastMovement.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\Movement\\FastMovement.cs",
+              "RelativeDocumentMoniker": "factory\\Movement\\FastMovement.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\Movement\\FastMovement.cs",
+              "RelativeToolTip": "factory\\Movement\\FastMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:58:10.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListUnitsBuilder.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\Builder\\ListUnitsBuilder.cs",
+              "RelativeDocumentMoniker": "factory\\Builder\\ListUnitsBuilder.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\Builder\\ListUnitsBuilder.cs",
+              "RelativeToolTip": "factory\\Builder\\ListUnitsBuilder.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:54:47.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListUnitDecBuilder.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\Builder\\ListUnitDecBuilder.cs",
+              "RelativeDocumentMoniker": "factory\\Builder\\ListUnitDecBuilder.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\Builder\\ListUnitDecBuilder.cs",
+              "RelativeToolTip": "factory\\Builder\\ListUnitDecBuilder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:28:22.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Director.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\Builder\\Director.cs",
+              "RelativeDocumentMoniker": "factory\\Builder\\Director.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\Builder\\Director.cs",
+              "RelativeToolTip": "factory\\Builder\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:52:35.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T14:57:30.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ElfFactory.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\ElfFactory.cs",
+              "RelativeDocumentMoniker": "factory\\ElfFactory.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\ElfFactory.cs",
+              "RelativeToolTip": "factory\\ElfFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:01:49.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HumanFactory.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\HumanFactory.cs",
+              "RelativeDocumentMoniker": "factory\\HumanFactory.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\factory\\HumanFactory.cs",
+              "RelativeToolTip": "factory\\HumanFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:02:24.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUnitFactory.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\interface\\IUnitFactory.cs",
+              "RelativeDocumentMoniker": "interface\\IUnitFactory.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\interface\\IUnitFactory.cs",
+              "RelativeToolTip": "interface\\IUnitFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:01:10.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnit.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\interface\\IUnit.cs",
+              "RelativeDocumentMoniker": "interface\\IUnit.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\interface\\IUnit.cs",
+              "RelativeToolTip": "interface\\IUnit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:13:42.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMovement.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\interface\\IMovement.cs",
+              "RelativeDocumentMoniker": "interface\\IMovement.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\interface\\IMovement.cs",
+              "RelativeToolTip": "interface\\IMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:49:45.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBuilder.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\interface\\IBuilder.cs",
+              "RelativeDocumentMoniker": "interface\\IBuilder.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\interface\\IBuilder.cs",
+              "RelativeToolTip": "interface\\IBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:55:03.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitDecorator.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\Model\\Decorator\\UnitDecorator.cs",
+              "RelativeDocumentMoniker": "Model\\Decorator\\UnitDecorator.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\Model\\Decorator\\UnitDecorator.cs",
+              "RelativeToolTip": "Model\\Decorator\\UnitDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:53:18.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Clan.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\Model\\Clan.cs",
+              "RelativeDocumentMoniker": "Model\\Clan.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\Model\\Clan.cs",
+              "RelativeToolTip": "Model\\Clan.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T11:21:10.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Leader.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\Model\\Leader.cs",
+              "RelativeDocumentMoniker": "Model\\Leader.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\Model\\Leader.cs",
+              "RelativeToolTip": "Model\\Leader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:12:57.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Map.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\Model\\Map.cs",
+              "RelativeDocumentMoniker": "Model\\Map.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\Model\\Map.cs",
+              "RelativeToolTip": "Model\\Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:40:09.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Squad.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\Model\\Squad.cs",
+              "RelativeDocumentMoniker": "Model\\Squad.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\Model\\Squad.cs",
+              "RelativeToolTip": "Model\\Squad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T11:26:12.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\Model\\Unit.cs",
+              "RelativeDocumentMoniker": "Model\\Unit.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\Model\\Unit.cs",
+              "RelativeToolTip": "Model\\Unit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:47:11.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IWeapon.cs",
+              "DocumentMoniker": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\interface\\IWeapon.cs",
+              "RelativeDocumentMoniker": "interface\\IWeapon.cs",
+              "ToolTip": "E:\\Programs\\krnu\\\u041F\u0430\u0442\u0435\u0440\u043D\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0430 \u0457\u0445 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u0435 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F\\lb\\git\\lb3\\lb2_2\\interface\\IWeapon.cs",
+              "RelativeToolTip": "interface\\IWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:48:41.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
