@@ -7,8 +7,8 @@ using System.Text;
 
 Console.OutputEncoding = Encoding.Unicode;
 
-Clan clan = new Clan(true, false, true, 'A');
-Clan clan2 = new Clan(true, false, false, 'B');
+Clan clan = new Clan(true, false, 'A');
+Clan clan2 = new Clan(true, false, 'B');
 
 GameManager gameManager = new GameManager(clan, clan2, true);
 gameManager.StartGame();
