@@ -15,6 +15,7 @@ namespace lb2_2.@interface
         public void Stay();
         public int X { get; set; }
         public int Y { get; set; }
-        public int Health();
+        public int Health(); 
+        public int CountAction();
     }
 }

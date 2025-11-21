@@ -30,7 +30,7 @@ namespace lb2_2.Model
             Map map = Map.GetInstance();
             squads = new List<Squad>();
             Random rand = new Random();
-            int numberOfSquads = rand.Next(1, 6);
+            int numberOfSquads = rand.Next(4, 10);
 
             int ElfCount, DwarfCount, HumanCount;
             if (adInfo)

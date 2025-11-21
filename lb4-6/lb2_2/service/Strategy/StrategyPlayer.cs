@@ -64,133 +64,14 @@ namespace lb2_2.service.Strategy
                     if (choice == 0)
                     {
                         context.objAct = ownerClan.GetLeader();
-                        int countAction = ownerClan.GetLeader().CountAction();
-                        while (countAction > 0)
-                        {
-                            context.Result = false;
-                            WriteLine($"Кількість доступних дій: {countAction}");
-                            WriteLine("Оберіть дію: 1. Атакувати; 2. Стояти; 3. Рухатись");
-                            string? action = ReadLine();
-                            switch (action)
-                            {
-                                case "1":
-                                    {
-                                        WriteLine("Ви обрали атакувати");
-                                        WriteLine("Оберіть напрямок атаки: вверх (1); вниз (2); вліво (3); вправо (4)");
-                                        if (!int.TryParse(ReadLine(), out int dir) || dir < 1 || dir > 4)
-                                        {
-                                            WriteLine("Невірний напрямок, спробуйте ще раз.");
-                                            break;
-                                        }
-
-                                        context.direction = dir;
-
-                                        attackChain.Handle(context);
-
-                                        if (context.Result)
-                                            countAction--;
-                                        break;
-                                    }
-                                case "2":
-                                    {
-                                        WriteLine("Ви обрали стояти");
-                                        ownerClan.GetLeader().Stay();
-                                        WriteLine("Відновлення/стояння виконано.");
-                                        countAction--;
-                                        break;
-                                    }
-                                case "3":
-                                    {
-                                        WriteLine("Ви обрали рухатись");
-                                        WriteLine("Оберіть напрямок: вверх (1); вниз (2); вліво (3); вправо (4)");
-                                        if (!int.TryParse(ReadLine(), out int direction) || direction < 1 || direction > 4)
-                                        {
-                                            WriteLine("Введено некоректне значення, спробуйте ще раз.");
-                                        }
-
-                                        context.direction = direction;
-
-                                        moveChain.Handle(context);
-                                        if (context.Result)
-                                            countAction--;
-                                        break;
-                                    }
-                                default:
-                                    {
-                                        WriteLine("Некоректна дія, спробуйте ще раз.");
-                                        break; // не витрачаємо хід
-                                    }
-                            }
-                            WriteLine("Оновлена карта:");
-                            map.ShowMap();
-                        }
+                        Play(context);
                     }
 
                     else
                     {
                         choice -= 1; // Зміна вибору на індекс списку
                         context.objAct = mySquads[choice];
-                        int countAction = mySquads[choice].CountAction();
-
-                        while (countAction > 0)
-                        {
-                            context.Result = false;
-                            WriteLine($"Кількість доступних дій: {countAction}");
-                            WriteLine("Оберіть дію: 1. Атакувати; 2. Стояти; 3. Рухатись");
-                            string? action = ReadLine();
-                            switch (action)
-                            {
-                                case "1":
-                                    {
-                                        WriteLine("Ви обрали атакувати");
-                                        WriteLine("Оберіть напрямок атаки: вверх (1); вниз (2); вліво (3); вправо (4)");
-                                        if (!int.TryParse(ReadLine(), out int dir) || dir < 1 || dir > 4)
-                                        {
-                                            WriteLine("Невірний напрямок, спробуйте ще раз.");
-                                            break;
-                                        }
-
-                                        context.direction = dir;
-
-                                        attackChain.Handle(context);
-
-                                        if (context.Result)
-                                            countAction--;
-                                        break;
-                                    }
-                                case "2":
-                                    {
-                                        WriteLine("Ви обрали стояти");
-                                        mySquads[choice].Stay();
-                                        WriteLine("Відновлення/стояння виконано.");
-                                        countAction--;
-                                        break;
-                                    }
-                                case "3":
-                                    {
-                                        WriteLine("Ви обрали рухатись");
-                                        WriteLine("Оберіть напрямок: вверх (1); вниз (2); вліво (3); вправо (4)");
-                                        if (!int.TryParse(ReadLine(), out int direction) || direction < 1 || direction > 4)
-                                        {
-                                            WriteLine("Введено некоректне значення, спробуйте ще раз.");
-                                        }
-
-                                        context.direction = direction;
-
-                                        moveChain.Handle(context);
-                                        if (context.Result)
-                                            countAction--;
-                                        break;
-                                    }
-                                default:
-                                    {
-                                        WriteLine("Некоректна дія, спробуйте ще раз.");
-                                        break;
-                                    }
-                            }
-                            Console.WriteLine("Оновлена карта:");
-                            map.ShowMap();
-                        }
+                        Play(context);
                     }
                 }
                 catch (Exception ex)
@@ -205,5 +86,72 @@ namespace lb2_2.service.Strategy
                 return true;
             return false;
         }
+        private void Play(ActionContext context)
+        {
+            int countAction = context.ownerClan.GetLeader().CountAction();
+            while (countAction > 0)
+            {
+                context.Result = false;
+                WriteLine($"Кількість доступних дій: {countAction}");
+                WriteLine("Оберіть дію: 1. Атакувати; 2. Стояти; 3. Рухатись");
+                string? action = ReadLine();
+                switch (action)
+                {
+                    case "1":
+                        {
+                            WriteLine("Ви обрали атакувати");
+                            WriteLine("Оберіть напрямок атаки: вверх (1); вниз (2); вліво (3); вправо (4)");
+                            if (!int.TryParse(ReadLine(), out int dir) || dir < 1 || dir > 4)
+                            {
+                                WriteLine("Невірний напрямок, спробуйте ще раз.");
+                                break;
+                            }
+
+                            context.direction = dir;
+
+                            attackChain.Handle(context);
+
+                            if (context.Result)
+                                countAction--;
+                            break;
+                        }
+                    case "2":
+                        {
+                            WriteLine("Ви обрали стояти");
+                            context.objAct.Stay();
+                            WriteLine("Відновлення/стояння виконано.");
+                            countAction--;
+                            break;
+                        }
+                    case "3":
+                        {
+                            WriteLine("Ви обрали рухатись");
+                            WriteLine("Оберіть напрямок: вверх (1); вниз (2); вліво (3); вправо (4)");
+                            if (!int.TryParse(ReadLine(), out int direction) || direction < 1 || direction > 4)
+                            {
+                                WriteLine("Введено некоректне значення, спробуйте ще раз.");
+                            }
+
+                            context.direction = direction;
+
+                            moveChain.Handle(context);
+                            if (context.Result)
+                                countAction--;
+                            break;
+                        }
+                    default:
+                        {
+                            WriteLine("Некоректна дія, спробуйте ще раз.");
+                            break; // не витрачаємо хід
+                        }
+                }
+                if (context.Result)
+                {
+                    WriteLine("Оновлена карта:");
+                    Map.GetInstance().ShowMap();
+                }
+            }
+        }
+
     }
 }

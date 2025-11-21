@@ -55,68 +55,14 @@ namespace lb2_2.service.Strategy
                         WriteLine("Ви обрали лідера");
 
                         context.objAct = ownerClan.GetLeader();
-                        int countAction = ownerClan.GetLeader().CountAction();
-                        while (countAction > 0)
-                        {
-                            context.Result = false;
-                            //Пошук ворога
-                            int enemyDir = FindEnemyDirection(enemyClan, context.objAct.X, context.objAct.Y);
-                            if (enemyDir != 0)
-                            {
-                                context.direction = enemyDir;
-                                attackChain.Handle(context);
-                                if (context.Result)
-                                    countAction--;
-                            }
-                            else if (context.objAct.Health() < 50)
-                            {
-                                context.objAct.Stay();
-                                countAction--;
-                            }
-                            else
-                            {
-                                context.direction = random.Next(1, 4);
-                                moveChain.Handle(context);
-                                if (context.Result)
-                                    countAction--;
-                            }
-                            WriteLine("Оновлена карта:");
-                            map.ShowMap();
-                        }
+                        Play(context);
                     }
                     else
                     {
                         choice -= 1; // Зміна вибору на індекс списку
 
                         context.objAct = mySquads[choice];
-                        int countAction = mySquads[choice].CountAction();
-                        while (countAction > 0)
-                        {
-                            context.Result = false;
-                            //Пошук ворога
-                            int enemyDir = FindEnemyDirection(enemyClan, context.objAct.X, context.objAct.Y);
-                            if (enemyDir != 0)
-                            {
-                                context.direction = enemyDir;
-                                attackChain.Handle(context);
-                                if (context.Result)
-                                    countAction--;
-                            }
-                            else if (context.objAct.Health() < 50)
-                            {
-                                context.objAct.Stay();
-                                countAction--;
-                            }
-                            else
-                            {
-                                context.direction = random.Next(1, 4);
-                                moveChain.Handle(context);
-                                if (context.Result)
-                                    countAction--;
-                            }
-                            WriteLine("Оновлена карта:");
-                            map.ShowMap();
-                        }
+                        Play(context);
                     }
                 }
                 catch (Exception ex)
@@ -130,6 +76,44 @@ namespace lb2_2.service.Strategy
                 return true;
             return false;
         }
+        
+        private void Play(ActionContext context)
+        {
+
+            int countAction = context.objAct.CountAction();
+            while (countAction > 0)
+            {
+                context.Result = false;
+                //Пошук ворога
+                int enemyDir = FindEnemyDirection(context.enemyClan, context.objAct.X, context.objAct.Y);
+                if (enemyDir != 0)
+                {
+                    context.direction = enemyDir;
+                    attackChain.Handle(context);
+                    if (context.Result)
+                        countAction--;
+                }
+                else if (context.objAct.Health() < 50)
+                {
+                    context.objAct.Stay();
+                    countAction--;
+                }
+                else
+                {
+                    Random rand = new Random();
+                    context.direction = rand.Next(1, 4);
+                    moveChain.Handle(context);
+                    if (context.Result)
+                        countAction--;
+                }
+                if (context.Result)
+                {
+                    WriteLine("Оновлена карта:");
+                    Map.GetInstance().ShowMap();
+                }
+            }
+        }
+
 
 
         private int FindEnemyDirection(Clan enemyClan, int x, int y)
